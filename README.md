@@ -1,4 +1,5 @@
 ## Hi there 👋
+![WhatsApp Image 2024-08-07 at 06 41 47_831ff967](https://github.com/user-attachments/assets/725d3054-63c3-4ec2-8ebc-e24bea3d370c)
 
 <!--
 **AlanBajaGranizo/AlanBajaGranizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
