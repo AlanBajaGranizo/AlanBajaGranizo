@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-https://music.youtube.com/watch?v=uRI0_G9RIDw&si=PryXHdlTxreC2-Hr
 
 <!--
 **AlanBajaGranizo/AlanBajaGranizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
