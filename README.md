@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-
-https://github.com/user-attachments/assets/674fe11e-d0ce-4541-aee4-0f0e2ec2349f
-
+https://music.youtube.com/watch?v=uRI0_G9RIDw&si=PryXHdlTxreC2-Hr
 
 <!--
 **AlanBajaGranizo/AlanBajaGranizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
